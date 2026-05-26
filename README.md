@@ -6,7 +6,7 @@
 
 Меня зовут Даниэль, и я инженер по контролю качества программного обеспечения. Здесь я делюсь результатами веб и мобильного тестирования, разработанными на курсах и в личных проектах. Вы можете ознакомиться с моим резюме:
 
-- 📫 Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-@artsiomrusau-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/artsiomrusau/) [![mail Badge](https://img.shields.io/badge/-mail-blue?style=flat&logo=Gmail&logoColor=white)](mailto:daniel-kriger@mail.ru)
+- 📫 Как связаться со мной: [![daniel-kriger@mail.ru Badge](https://img.shields.io/badge/-mail-blue?style=flat&logo=Gmail&logoColor=white)](mailto:daniel-kriger@mail.ru) [![telegram:@krigloid Badge]]https://img.shields.io/badge/-telegram-blue?style=flat&logo=Gmail&logoColor=white
 
 ---
 
