@@ -6,9 +6,7 @@
 
 Меня зовут Даниэль, и я инженер по контролю качества программного обеспечения. Здесь я делюсь результатами веб и мобильного тестирования, разработанными на курсах и в личных проектах. Вы можете ознакомиться с моим резюме:
 
-- 📫 Как связаться со мной: 
-* 📨 **Почта:** daniel-kriger@mail.ru
-* ✈️ **Telegram:** @krigloid
+- 📫 Как связаться со мной: 📧 daniel-kriger@mail.ru | ✈️ Telegram: @krigloid
 
 ---
 
@@ -41,7 +39,7 @@
 
 ### Тестовые артефакты
 ---
-### [Webshop testing](https://vscode.dev/github/danjobless/danjobless/blob/main/README.md#L42) - исследовательское и функциональное тестирование
+### [Webshop testing](https://github.com/danjobless/Webshop-testing) - исследовательское и функциональное тестирование
 ### API Testing – REST и SOAP с помощью Postman
 ### MySQL – запросы и сценарии проверки базы данных
 ### MongoDB – запросы и упражнения для NoSQL
