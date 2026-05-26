@@ -40,7 +40,7 @@
 ### Тестовые артефакты
 ---
 ### [Webshop testing](https://github.com/danjobless/Webshop-testing) - исследовательское и функциональное тестирование
-### API Testing – REST и SOAP с помощью Postman
+### [API Testing](https://github.com/danjobless/api-testing) – REST и SOAP с помощью Postman
 ### MySQL – запросы и сценарии проверки базы данных
 ### MongoDB – запросы и упражнения для NoSQL
 ### Android App Testing – ручные тесты и баг репорты
