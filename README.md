@@ -41,7 +41,7 @@
 ---
 ### [Webshop testing](https://github.com/danjobless/Webshop-testing) - исследовательское и функциональное тестирование
 ### [API Testing](https://github.com/danjobless/api-testing) – REST и SOAP с помощью Postman
-### MySQL – запросы и сценарии проверки базы данных
+### [MySQL](https://github.com/danjobless/danjobless) – запросы и сценарии проверки базы данных
 ### MongoDB – запросы и упражнения для NoSQL
 ### Android App Testing – ручные тесты и баг репорты
 ### Charles Proxy – имитация ответов и проверка сети
