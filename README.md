@@ -42,11 +42,8 @@
 ### [Webshop testing](https://github.com/danjobless/Webshop-testing) - исследовательское и функциональное тестирование
 ### [API Testing](https://github.com/danjobless/api-testing) – REST и SOAP с помощью Postman
 ### [MySQL](https://github.com/danjobless/MySQL) – запросы и сценарии проверки базы данных
-### MongoDB – запросы и упражнения для NoSQL
-### Android App Testing – ручные тесты и баг репорты
-### Charles Proxy – имитация ответов и проверка сети
-### Bash – скрипты для задач контроля качества
-### Git – базовые команды управления версиями
-
+### [Android App Testing]() – ручные тесты и баг репорты
+### [Charles Proxy]() – имитация ответов и проверка сети
+### [Bash – скрипты]() для задач контроля качества
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=danjobless)
